@@ -1,6 +1,6 @@
 # NeuroStarUP
 
-![Логотип](https://github.com/netologi-ds-team/git-homeworks/blob/main/1_self/logo.png)
+![Логотип](https://github.com/netology-ds-team/git-homeworks/blob/main/1_self/logo.png)
 
 *NeuroStarUP* - динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искуственного интеллекта
 
